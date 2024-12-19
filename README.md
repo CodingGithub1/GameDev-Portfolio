@@ -9,7 +9,7 @@
 ##### Group Repository: https://github.com/g0ld-star/heirloom
 
 # Certifications
-##### Images: ![alt text](https://github.com/CodingGithub1/IndividualProject/blob/main/images/GUIMOCKUP.png)
+##### Images: ![alt text](https://github.com/CodingGithub1/GameDev-Portfolio/blob/6c29114e5503786b2135a5119ce7a52ccb3f10f2/image/Skill%20certificate.png)
 
 # Individual Project
 #### Title: Bullseye Bonanza
