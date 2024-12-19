@@ -6,7 +6,11 @@
 # Group Project
 #### Title: Heriloom
 ##### Description: a video game influenced by geometry dash built but with a twist of storylines and interactions to keep user hooked. 
-##### Group Repository: 
+##### Images: ![alt text](https://github.com/CodingGithub1/IndividualProject/blob/main/images/GUIMOCKUP.png)
+##### Group Repository: https://github.com/g0ld-star/heirloom
+
+# Certifications
+##### Images: ![alt text](https://github.com/CodingGithub1/IndividualProject/blob/main/images/GUIMOCKUP.png)
 
 # Individual Project
 #### Title: Bullseye Bonanza
