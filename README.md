@@ -5,7 +5,7 @@
 # Group Project
 #### Title: Heriloom
 ##### Description: a video game influenced by geometry dash built but with a twist of storylines and interactions to keep user hooked. 
-##### Images: ![alt text](https://github.com/CodingGithub1/IndividualProject/blob/main/images/GUIMOCKUP.png)
+##### Images: ![alt text](https://github.com/CodingGithub1/GameDev-Portfolio/blob/20e3ea347a9c1c90cc3480f5247f04cca4dbeea1/image/Game%20picture.png)
 ##### Group Repository: https://github.com/g0ld-star/heirloom
 
 # Certifications
